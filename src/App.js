@@ -8,9 +8,8 @@ function App() {
   }
   return (
     <div className="App">
-      {String(count)}
-      <br/>
-      <button onClick={handleClick}>button</button>
+      <p>Please choose your video</p>
+      <button onClick={handleClick}>upload</button>
     </div>
   );
 }

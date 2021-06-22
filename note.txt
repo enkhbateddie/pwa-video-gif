@@ -1,0 +1,5 @@
+possible ready tutorials:
+    geeksfrgeek:
+    https://www.geeksforgeeks.org/how-to-create-a-video-to-gif-converter-using-reactjs/
+    fireship - youtube:
+    https://www.youtube.com/watch?v=-OTc0Ki7Sv0&t=5s
