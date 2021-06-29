@@ -1,5 +1,9 @@
 possible ready tutorials:
     geeksfrgeek:
     https://www.geeksforgeeks.org/how-to-create-a-video-to-gif-converter-using-reactjs/
+    tech -> ffmpeg/ffmpeg core
+
     fireship - youtube:
     https://www.youtube.com/watch?v=-OTc0Ki7Sv0&t=5s
+    tech -> FFMPEG.WASM 
+    https://ffmpegwasm.github.io/
